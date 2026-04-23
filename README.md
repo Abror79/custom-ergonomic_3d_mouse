@@ -4,6 +4,7 @@
 
 
 I liked the idea of customizing my own mouse. This is also my first ever CAD project. I got excited and decided to do it. Actually I needed another mouse for my laptop, so it was perfect for me. Following the gudie wasn't that hard but I learned through trial and error (a lot). 
+
 I designed the schematic in wokwi, you can access it in here ...
 
 **BOM**

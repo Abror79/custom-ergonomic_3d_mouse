@@ -5,7 +5,6 @@
 
 I liked the idea of customizing my own mouse. This is also my first ever CAD project. I got excited and decided to do it. Actually I needed another mouse for my laptop, so it was perfect for me. Following the gudie wasn't that hard but I learned through trial and error (a lot). 
 
-## 📡 Firmware & Connectivity
 The electronics for this project utilize a pre-programmed SoC (System on Chip) integrated into the Bambu Lab Kit-002 PCB. 
 
 * **Protocol:** 2.4GHz Wireless via dedicated USB Receiver.

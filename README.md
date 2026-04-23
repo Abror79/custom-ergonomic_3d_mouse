@@ -5,7 +5,14 @@
 
 I liked the idea of customizing my own mouse. This is also my first ever CAD project. I got excited and decided to do it. Actually I needed another mouse for my laptop, so it was perfect for me. Following the gudie wasn't that hard but I learned through trial and error (a lot). 
 
-I designed the schematic in wokwi, you can access it in here ...
+## 📡 Firmware & Connectivity
+The electronics for this project utilize a pre-programmed SoC (System on Chip) integrated into the Bambu Lab Kit-002 PCB. 
+
+* **Protocol:** 2.4GHz Wireless via dedicated USB Receiver.
+* **Resolution:** Adjustable DPI (800-1200-1600) via the onboard cycle switch.
+* **Compatibility:** Driverless Plug-and-Play (Windows, macOS, Linux).
+
+*Note: No custom flashing or Arduino IDE setup is required for this build, as the HID (Human Interface Device) firmware is hard-coded into the kit's hardware.*
 
 **BOM**
 

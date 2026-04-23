@@ -1,4 +1,4 @@
-# 🖱️ Sneak Mouse
+# 🖱️ Squeak Mouse
 
 <img width="1100" height="710" alt="image" src="https://github.com/user-attachments/assets/1b3bca48-e36a-4a9c-abd8-16e30e6d255c" />
 

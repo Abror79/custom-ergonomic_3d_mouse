@@ -3,7 +3,7 @@
 <img width="1100" height="710" alt="image" src="https://github.com/user-attachments/assets/1b3bca48-e36a-4a9c-abd8-16e30e6d255c" />
 
 
-I liked the idea of customizing my own mouse. This is also my first ever CAD project. I got excited and decided to do it. Actually I needed another mouse for my laptop, so it was perfect for me. Following the gudie wasn't that hard but I learned through trial and error (a lot). 
+I liked the idea of customizing my own mouse. This is also my first ever CAD project. I got excited and decided to do it. Actually I needed another mouse for my laptop, so it was perfect for me. Following the gudie wasn't that hard but I learned through trial and error (a lot). Here's link to onshape: https://cad.onshape.com/documents/097d8a45451faf35dc6d5726/w/ee41472c9fe61edef61676b1/e/4807f90e42e73941cf48a117?renderMode=0&uiState=69f46b762c61ad97a83356f2
 
 The electronics for this project utilize a pre-programmed SoC (System on Chip) integrated into the Bambu Lab Kit-002 PCB. 
 
